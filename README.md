@@ -1,2 +1,3 @@
-# GSLPeru2017
-Tech lectures from the 2017 MIT GSL Program in Lima, Peru
+# MIT GSL Peru 2017
+
+Tech lectures from the 2017 MIT GSL Program in Lima, Peru.
